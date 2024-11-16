@@ -11,7 +11,6 @@ Descubra como o trabalho remoto está transformando a rotina de milhões de pess
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT: Gerador do roteiro para o E-book,
-Ideogram: Gerador de Imagem para o E-booK
 
 ## 🧐 Processo de Criação
 Objetivo: Compreender os benefícios do home office e aplicá-los para melhorar a vida do colaborador,
