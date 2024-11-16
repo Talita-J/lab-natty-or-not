@@ -24,7 +24,6 @@ Ferramentas e estratégias para um home office eficiente.
 
 ## 🚀 Resultados
 Leia o E-book:
-""
-<img src="Users\Talit\Pictures\Screenshots\Captura de tela 2024-08-02 222024.png" alt="Logo da Minha Empresa">
+
 ## 💭 Reflexão (Opcional)
 Aumenta a produtividade, rapidez e insetiva a criatividade, pois temos que saber o que pedir e analisar o que foi gerador para fazer o controle de qualidade.
