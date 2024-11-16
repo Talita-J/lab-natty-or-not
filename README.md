@@ -3,20 +3,28 @@
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+E-BOOK:
+Home Office: Qualidade de Vida
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Descubra como o trabalho remoto está transformando a rotina de milhões de pessoas ao redor do mundo. Este e-book revela os benefícios do home office para a saúde, bem-estar e produtividade, explorando como ele pode equilibrar trabalho e vida pessoal de maneira mais saudável :).
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT: Gerador do roteiro para o E-book,
+Ideogram: Gerador de Imagem para o E-booK
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Objetivo: Compreender os benefícios do home office e aplicá-los para melhorar a vida do colaborador,
+Público-alvo: Profissionais que trabalham remotamente ou desejam migrar para o home office,
+Tópicos principais:
+Introdução ao conceito de home office.
+Benefícios para a saúde mental e física.
+Impacto no equilíbrio entre vida pessoal e profissional.
+Desafios e como superá-los.
+Ferramentas e estratégias para um home office eficiente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Leia o E-book:
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Aumenta a produtividade, rapidez e insetiva a criatividade, pois temos que saber o que pedir e analisar o que foi gerador para fazer o controle de qualidade.
