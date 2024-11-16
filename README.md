@@ -24,6 +24,7 @@ Ferramentas e estratégias para um home office eficiente.
 
 ## 🚀 Resultados
 Leia o E-book:
+https://github.com/Talita-J/lab-natty-or-not/blob/main/E-BOOK
 
 ## 💭 Reflexão (Opcional)
 Aumenta a produtividade, rapidez e insetiva a criatividade, pois temos que saber o que pedir e analisar o que foi gerador para fazer o controle de qualidade.
